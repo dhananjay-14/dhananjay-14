@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhananjay Bhavar
 - 👀 I’m interested in learning new skills and develop something creative out of it.
-- 🌱 I’m currently learning Etherium Blockchain Development with Solidity.
+- 🌱 I’m currently learning Ethereum Blockchain Development with Solidity.
 - 📫 LinkedIn profile: www.linkedin.com/in/dhananjay-bhavar-269078248
 
 <!---
