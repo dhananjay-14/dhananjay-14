@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Dhananjay Bhavar
 - 👀 I’m interested in learning new skills and develop something creative out of it.
-- 💻 I’m currently learning Ethereum Blockchain Development with Solidity,Truffle,Ethers.js and Web3.
+- 💻  I have a passion for technology and am particularly interested in the potential of Blockchain technology and Web3. I am continuously learning and exploring this field, as well as expanding my skills in web development. 
+- I have a strong drive for problem-solving and love working with a team to find creative and effective solutions. I'm always eager to learn about new technologies and how they can be utilized effectively.
 - 🔗 LinkedIn profile: https://www.linkedin.com/in/dhananjay-bhavar/
 
 <!---
