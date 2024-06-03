@@ -40,8 +40,9 @@ I'm all ears for exciting ideas and opportunities. Let's chat about software, bl
 - **AgroConnect - Connecting Farmers to Market**  
   Developed a platform with a proprietary ERC-20 token 'AGC' for efficient payments. Incentivized purchases with medal NFTs and developed secure, gas-efficient smart contracts on the Ethereum network.
 
--**ShopStock - E Commerce
-A functional e-commerce website built using React.js and Redux.js for state management. It offers a seamless and dynamic shopping experience with modern web development technologies.
+- **ShopStock - E Commerce (React+Redux):** 
+  A functional e-commerce website built using React.js and Redux.js for state management. It offers a seamless and dynamic shopping experience with modern web development technologies.
+
 ---
 
 
