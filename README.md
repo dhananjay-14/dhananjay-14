@@ -14,10 +14,8 @@ I'm a **Software Developer** with a strong focus on **MERN Stack** and the **Blo
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/dhananjay-bhavar/)
-- [Email](mailto:bhavardhananjay3@gmail.com)
-  
-I'm all ears for exciting ideas and opportunities. Let's chat about software, blockchain, and how technology is shaping our lives!
+- [LinkedIn](https://www.linkedin.com/in/dhananjay-bhavar/)                                                    [Email](mailto:bhavardhananjay3@gmail.com)
+
 
 ---
 ### 💼 Experience
@@ -33,6 +31,9 @@ I'm all ears for exciting ideas and opportunities. Let's chat about software, bl
 ---
 
 ### 🚀 Projects
+
+- **CrazyBites - Delicious Meals Delivered**  
+  An online ordering app for restaurants, designed to streamline the dining experience for both owners and customers.
 
 - **NFT Marketplace with Creator Royalties**  
   Integrated a royalty feature for creators, ensuring they receive royalties on each subsequent resale of their NFTs. Implemented a robust metadata storage system on IPFS for secure and immutable storage.
