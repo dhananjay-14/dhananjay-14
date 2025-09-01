@@ -10,10 +10,10 @@ Let's connect and explore opportunities to innovate and create impactful softwar
 ---
 
 ### 🔧 Technical Skills
-- **Languages:** C++, Python, Java, Solidity, JavaScript, SQL
-- **Databases:** MongoDB, MySQL, IPFS
-- **Frameworks:** NodeJS, ExpressJS, Ethers.js, Web3.js, Socket.io , Langchain
-- **Tools:** Git, GitHub, Hardhat, Postman
+- **Languages:** C++, Python, Java, JavaScript, SQL
+- **Databases:** MongoDB, MySQL
+- **Frameworks:** NodeJS, NestJs, Langchain
+- **Tools:** Kafka, Git, GitHub, GitLab, Jira
 
 ---
 
