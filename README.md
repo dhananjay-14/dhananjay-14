@@ -24,8 +24,11 @@ Let's connect and explore opportunities to innovate and create impactful softwar
 ---
 ### 💼 Experience
 
+- **SDE 1**  
+  *PHYSICS WALLAH* | Oct 2024 – Present
+
 - **Software Developer Intern**  
-  *IBM India* | Jul 2024 – Present
+  *IBM India* | Jul 2024 – Sept 2024
 
 - **Smart Contract Auditor and Web3 Security Intern**  
   *PESU Venture Labs* | Feb 2024 – April 2024  
@@ -37,20 +40,6 @@ Let's connect and explore opportunities to innovate and create impactful softwar
   *QuillAudits - Web3 Security* | Mar 2023 – Jun 2023  
 ---
 
-### 🚀 Projects
 
-- **CrazyBites - Delicious Meals Delivered**  
-  An online ordering app for restaurants, designed to streamline the dining experience for both owners and customers.
-
-- **NFT Marketplace with Creator Royalties**  
-  Integrated a royalty feature for creators, ensuring they receive royalties on each subsequent resale of their NFTs. Implemented a robust metadata storage system on IPFS for secure and immutable storage.
-
-- **AgroConnect - Connecting Farmers to Market**  
-  Developed a platform with a proprietary ERC-20 token 'AGC' for efficient payments. Incentivized purchases with medal NFTs and developed secure, gas-efficient smart contracts on the Ethereum network.
-
-- **ShopStock - E Commerce (React+Redux):** 
-  A functional e-commerce website built using React.js and Redux.js for state management. It offers a seamless and dynamic shopping experience with modern web development technologies.
-
----
 
 
